@@ -1,8 +1,8 @@
 class Pboy < Formula
   desc "Small .pdf management utility"
   homepage "https://github.com/2mol/pboy"
-  url "https://github.com/2mol/pboy/releases/download/1.0.0/pboy-1.0.0-osx.tar.gz"
-  sha256 "0b11dcbb58c8f9e84a63b2efcec5d4e09a4fac6b32b6bfed1ac01c30a2498fd8"
+  url "https://github.com/2mol/pboy/releases/download/1.0.1/pboy-1.0.1-osx.tar.gz"
+  sha256 "591fec61c927e19c989ad065370a05e5cc4f86d007893e21432a72b01469d300"
 
   bottle :unneeded
 
