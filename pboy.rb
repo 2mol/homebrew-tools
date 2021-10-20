@@ -4,8 +4,6 @@ class Pboy < Formula
   url "https://github.com/2mol/pboy/releases/download/1.7/pboy-osx.tar.gz"
   sha256 "01b0be43ba455764afe913b5d1a804b9cd61491621d414fce31f716538c424f6"
 
-  bottle :unneeded
-
   depends_on "poppler"
 
   def install
